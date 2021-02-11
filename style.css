@@ -87,3 +87,7 @@ img{
     text-decoration: none;
     color: teal;
 }
+
+.lead{
+    font-weight: bold;
+}
