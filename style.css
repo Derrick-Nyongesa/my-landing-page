@@ -82,3 +82,8 @@ img{
     color: #f4f4f4;
     overflow-y: hidden;
 }
+
+.article a{
+    text-decoration: none;
+    color: teal;
+}
