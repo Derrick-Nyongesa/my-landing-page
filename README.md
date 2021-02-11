@@ -10,4 +10,5 @@ This us a single-page site indicating my profile and portfolio written using **H
 ## Link to live site on GitHub Pages
 [Derrick Nyongesa](http://127.0.0.1:5500/index.html "Derrick Nyongesa")
 
-## copyright and license information
+## Copyright and license information
+Licensed under the [MIT license](LICENSE).
