@@ -74,6 +74,11 @@ img{
     padding: 3px 20px;
     margin-bottom: 5px;
     background-color:#ff4500;
+    color: #f4f4f4; 
+}
+
+.article{
+    background-color: #333;
     color: #f4f4f4;
-    
+    overflow-y: hidden;
 }
