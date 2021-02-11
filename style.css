@@ -41,4 +41,13 @@ img{
     height: 161.5px;
     width: 162.5px;
     margin-top: 10px;
+    border-radius: 80px;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 0 48px;
 }
