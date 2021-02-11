@@ -51,3 +51,15 @@ img{
     margin: 0 auto;
     padding: 0 48px;
 }
+
+#left li{
+    line-height: 16px; 
+ }
+ 
+#left h1{
+     color: #ff4500;
+     margin-right: 100px;
+     padding: 20px 0;
+     border-bottom: #ff4500 solid 5px;
+     text-align: center;
+}
