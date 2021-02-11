@@ -63,3 +63,17 @@ img{
      border-bottom: #ff4500 solid 5px;
      text-align: center;
 }
+
+#right h3{
+    text-align: center;
+    color: #ff4500;
+}
+
+#right li{
+    list-style: none;
+    padding: 3px 20px;
+    margin-bottom: 5px;
+    background-color:#ff4500;
+    color: #f4f4f4;
+    
+}
