@@ -1,7 +1,7 @@
-## PROJECT NAME
+## Project Name
 My Landing Page
 
-## AUTHOR's NAME
+## Author's Name
 Derrick Nyongesa
 
 ## Description of project
