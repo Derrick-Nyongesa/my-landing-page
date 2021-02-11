@@ -8,7 +8,7 @@ Derrick Nyongesa
 This us a single-page site indicating my profile and portfolio written using **HTML 5** and **CSS 3** with no **Javascript**.
 
 ## Link to live site on GitHub Pages
-[Derrick Nyongesa](index.html "Derrick Nyongesa")
+[Derrick Nyongesa](index.html)
 
 ## Copyright and license information
 Licensed under the [MIT license](LICENSE).
